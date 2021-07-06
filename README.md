@@ -1,5 +1,5 @@
 # Docker
-Whale whale whale... Do you need another container? 
+Whale whale whale... do you need another container? 
 
 # Install and run Docker (image container and site)
 1. vim /etc/yum.repos.d/centos.repo
