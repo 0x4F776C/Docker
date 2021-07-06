@@ -1,6 +1,7 @@
 # Docker
-Install and run Docker (image container and site)
--------------------------------------------------
+Whale whale whale... Do you need another container? 
+
+# Install and run Docker (image container and site)
 1. vim /etc/yum.repos.d/centos.repo
 2. type in the following...
 	[centos]
@@ -32,14 +33,11 @@ Install and run Docker (image container and site)
 [complete] site
 ---------------
 
-What is Docker used for?
-------------------------
+## What is Docker used for?
 Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
 
-Why would someone use Docker?
------------------------------
+## Why would someone use Docker?
 Docker provides this same capability without the overhead of a virtual machine. It lets you put your environment and configuration into code and deploy it. The same Docker configuration can also be used in a variety of environments. This decouples infrastructure requirements from the application environment.
 
-Advantages of Docker
---------------------
+## Advantages of Docker
 Lightweight footprint and minimal overhead � Docker images are typically very small, which facilitates rapid delivery and reduces the time to deploy new application containers. Simplified maintenance � Docker reduces effort and risk of problems with application dependencies.
