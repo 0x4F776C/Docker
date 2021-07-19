@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:16.04
 MAINTAINER Lee Chun Hao <chunhao.official@gmail.com>
 
 RUN apt-get update && apt-get upgrade -y
